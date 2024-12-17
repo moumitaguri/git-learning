@@ -2,3 +2,19 @@ Let's learn about git
 what did we learn?
 
 let's change first file as well.
+
+
+What did we learn?
+
+- what is git?
+- git vs github
+- what are the advantages?
+
+- git status 
+  - It shows the status - current status - any changes, any commit is there or not
+- git diff
+  - 
+- git add
+  - git add . - all of it
+  - git add  -p - you can choose to add or not by selecing y and n
+-   
